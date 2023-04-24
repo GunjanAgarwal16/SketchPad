@@ -15,8 +15,8 @@ This is a sketch pad website created using HTML, CSS, and JavaScript. It allows 
 * Save the drawing as an image file
 
 ### Installation
-1. Clone the repository:
-https://github.com/GunjanAgarwal16/SketchPad.git
+1.Clone the repository:https://github.com/GunjanAgarwal16/SketchPad.git
+
 2.Open the index.html file in your browser.
 
 ### Usage
